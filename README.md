@@ -1,14 +1,14 @@
 # Frosted Glass
 
+Edited by Lyntxrya
 Display your picture of choice with adjustable blur and brightness. Dark theme is required.
 
-![Server Chat](https://i.imgur.com/sUlg8ff.png)
+![Server Chat](https://i.imgur.com/sUlg8ff.png![Alt text](image.png))
 
 ## Download
 
-BetterDiscord Download: [https://betterdiscord.app/theme/Frosted%20Glass](https://betterdiscord.app/Download?id=40)  
-Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`  
-Vencord link: `https://raw.githubusercontent.com/DiscordStyles/FrostedGlass/deploy/FrostedGlass.theme.css`
+Powercord Install: `git clone https://github.com/ZeldrexK0DE/FrostedGlassLynV1`  
+Vencord link: `https://raw.githubusercontent.com/ZeldrexK0DE/FrostedGlassLynV1/deploy/FrostedGlass.theme.css`
 
 ## Contributing
 
