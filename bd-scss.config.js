@@ -2,8 +2,8 @@
 export default {
 	meta: {
 		name: 'Frosted Glass',
-		author: 'Gibbu#1211',
-		version: '2.2.0',
+		author: 'Lyntxrya x Gibbu#1211',
+		version: '2.2.1',
 		description: 'Display your picture of choice with adjustable blur and brightness. Dark theme is required.',
 		invite: 'ZHthyCw',
 		authorId: '174868361040232448',
