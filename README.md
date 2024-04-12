@@ -1,6 +1,6 @@
 # Frosted Glass
 
-Edited by Lyntxrya
+Edited by LYNK
 Display your picture of choice with adjustable blur and brightness. Dark theme is required.
 
 ![Server Chat](https://i.imgur.com/7ELhWZO.png![Alt text])
